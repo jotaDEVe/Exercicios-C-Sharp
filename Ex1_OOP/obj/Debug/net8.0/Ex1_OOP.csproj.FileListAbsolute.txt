@@ -1,0 +1,14 @@
+C:\Users\joaov\source\repos\Ex1_OOP\bin\Debug\net8.0\Ex1_OOP.exe
+C:\Users\joaov\source\repos\Ex1_OOP\bin\Debug\net8.0\Ex1_OOP.deps.json
+C:\Users\joaov\source\repos\Ex1_OOP\bin\Debug\net8.0\Ex1_OOP.runtimeconfig.json
+C:\Users\joaov\source\repos\Ex1_OOP\bin\Debug\net8.0\Ex1_OOP.dll
+C:\Users\joaov\source\repos\Ex1_OOP\bin\Debug\net8.0\Ex1_OOP.pdb
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.dll
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\refint\Ex1_OOP.dll
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.pdb
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\Ex1_OOP.genruntimeconfig.cache
+C:\Users\joaov\source\repos\Ex1_OOP\obj\Debug\net8.0\ref\Ex1_OOP.dll
