@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExercicioVetores
-build_property.ProjectDir = C:\Users\joaov\source\repos\Vetores\ExercicioVetores\
+build_property.ProjectDir = C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

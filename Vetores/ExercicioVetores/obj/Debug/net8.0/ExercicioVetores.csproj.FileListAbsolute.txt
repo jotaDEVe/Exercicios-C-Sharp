@@ -12,3 +12,18 @@ C:\Users\joaov\source\repos\Vetores\ExercicioVetores\obj\Debug\net8.0\refint\Exe
 C:\Users\joaov\source\repos\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.pdb
 C:\Users\joaov\source\repos\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.genruntimeconfig.cache
 C:\Users\joaov\source\repos\Vetores\ExercicioVetores\obj\Debug\net8.0\ref\ExercicioVetores.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.sourcelink.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\refint\ExercicioVetores.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Vetores\ExercicioVetores\obj\Debug\net8.0\ref\ExercicioVetores.dll

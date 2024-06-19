@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaov\\source\\repos\\Vetores\\ExercicioVetores\\",
+  "WorkspaceRootPath": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosCSharp\\Vetores\\ExercicioVetores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{325B8B38-FA73-4A7E-8EFA-5A12E63C56A3}|ExercicioVetores.csproj|c:\\users\\joaov\\source\\repos\\vetores\\exerciciovetores\\aluguelquartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{325B8B38-FA73-4A7E-8EFA-5A12E63C56A3}|ExercicioVetores.csproj|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\exercicioscsharp\\vetores\\exerciciovetores\\aluguelquartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325B8B38-FA73-4A7E-8EFA-5A12E63C56A3}|ExercicioVetores.csproj|solutionrelative:aluguelquartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325B8B38-FA73-4A7E-8EFA-5A12E63C56A3}|ExercicioVetores.csproj|c:\\users\\joaov\\source\\repos\\vetores\\exerciciovetores\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{325B8B38-FA73-4A7E-8EFA-5A12E63C56A3}|ExercicioVetores.csproj|c:\\users\\joaov\\onedrive\\\u00E1rea de trabalho\\exercicioscsharp\\vetores\\exerciciovetores\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325B8B38-FA73-4A7E-8EFA-5A12E63C56A3}|ExercicioVetores.csproj|solutionrelative:reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\Vetores\\ExercicioVetores\\Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosCSharp\\Vetores\\ExercicioVetores\\Reserva.cs",
               "RelativeDocumentMoniker": "Reserva.cs",
-              "ToolTip": "C:\\Users\\joaov\\source\\repos\\Vetores\\ExercicioVetores\\Reserva.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosCSharp\\Vetores\\ExercicioVetores\\Reserva.cs",
               "RelativeToolTip": "Reserva.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:33:16.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T22:33:16.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AluguelQuartos.cs",
-              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\Vetores\\ExercicioVetores\\AluguelQuartos.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosCSharp\\Vetores\\ExercicioVetores\\AluguelQuartos.cs",
               "RelativeDocumentMoniker": "AluguelQuartos.cs",
-              "ToolTip": "C:\\Users\\joaov\\source\\repos\\Vetores\\ExercicioVetores\\AluguelQuartos.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosCSharp\\Vetores\\ExercicioVetores\\AluguelQuartos.cs",
               "RelativeToolTip": "AluguelQuartos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T22:32:33.519Z",
               "EditorCaption": ""
