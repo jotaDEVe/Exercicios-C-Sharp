@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\bin\Debug\net8.0\PesquisaIndices.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\bin\Debug\net8.0\PesquisaIndices.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\bin\Debug\net8.0\PesquisaIndices.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\bin\Debug\net8.0\PesquisaIndices.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\bin\Debug\net8.0\PesquisaIndices.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.sourcelink.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\refint\PesquisaIndices.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\PesquisaIndices.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercícioIndicesMatrizes\PesquisaIndices\obj\Debug\net8.0\ref\PesquisaIndices.dll

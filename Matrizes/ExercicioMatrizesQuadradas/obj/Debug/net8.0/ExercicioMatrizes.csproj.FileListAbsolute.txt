@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.sourcelink.json
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\refint\ExercicioMatrizes.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\ExerciciosCSharp\Matrizes\ExercicioMatrizes\obj\Debug\net8.0\ref\ExercicioMatrizes.dll

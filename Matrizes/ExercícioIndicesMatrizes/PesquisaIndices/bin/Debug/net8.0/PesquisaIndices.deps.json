@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PesquisaIndices/1.0.0": {
+        "runtime": {
+          "PesquisaIndices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PesquisaIndices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
